@@ -1,3 +1,3 @@
-# maven-project
+# Devops pipeline
 
-Simple Maven Project
+Setting up my first DevOps pipeline
