@@ -1,3 +1,11 @@
-<h1> Hello, Welcome to Simple DevOps Project Yvan !!! </h1>
-<h2> I will build everything in this project </h2>
-<h1> Good job Yvan on deploying your first Jenkins Pipeline</h1>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="background-color:MediumSeaGreen;">Vert</h1>
+<h1 style="background-color:Tomato;">Rouge</h1>
+<h1 style="background-color:Orange;">Jaune</h1>
+<h1 style="border:2px solid DodgerBlue;">Vive mon pays le Cameroon!!!</h1>
+
+</body>
+</html>
