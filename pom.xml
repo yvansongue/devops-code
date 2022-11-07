@@ -31,12 +31,18 @@
 
   <build>
     <plugins>
-      <plugin>
-        <artifactId>maven-compiler-plugin</artifactId>
-        <configuration>
-          <source>1.8</source>
-          <target>1.8</target>
-        </configuration>
+       <plugin>
+        <artifactId>maven-clean-plugin</artifactId>
+        <version>3.2.0</version>
+        <executions>
+          <execution>
+            <id>auto-clean</id>
+            <phase>initialize</phase>
+            <goals>
+              <goal>clean</goal>
+            </goals>
+          </execution>
+        </executions>
       </plugin>
 
       <plugin>
